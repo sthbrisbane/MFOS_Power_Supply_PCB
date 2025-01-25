@@ -25543,6 +25543,54 @@
 		(layer "Edge.Cuts")
 		(uuid "1f5ed11c-3638-4f98-98dd-bc7f1eb2851b")
 	)
+	(gr_text "Hart Electronics 2025 V1.0"
+		(at 140 94 0)
+		(layer "B.SilkS")
+		(uuid "163c6c14-5ab8-4feb-9bc2-8150908130c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MFOS Power Supply"
+		(at 137 92 0)
+		(layer "B.SilkS")
+		(uuid "928f07bc-5641-41cc-8c87-3f47b87cf58b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MFOS Power Supply"
+		(at 168 74 0)
+		(layer "F.SilkS")
+		(uuid "0b01692c-e735-4a16-8159-effebd0b78b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Hart Electronics 2025 V1.0"
+		(at 170 112 0)
+		(layer "F.SilkS")
+		(uuid "48940d50-e72e-4db3-a557-0590d5e0e2c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "9VAC~"
 		(at 92 87 90)
 		(layer "F.SilkS")

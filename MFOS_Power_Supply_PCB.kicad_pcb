@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/work/MFOS/MFOS Power Supply/PCB/MFOS_Power_Supply_PCB/MFOS_Power_Supply_PCB-backups/gerbers/")
 		)
 	)
 	(net 0 "")
@@ -607,6 +607,7 @@
 		(property "Reference" "M4"
 			(at 3 3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ee3a9626-db9e-41a8-bfc5-b5e16f82ab9d")
 			(effects
 				(font
@@ -19110,6 +19111,7 @@
 		(property "Reference" "M3"
 			(at 3 -3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "79a9bd86-9328-4133-a080-ba3d4723d6fb")
 			(effects
 				(font
@@ -19488,6 +19490,7 @@
 		(property "Reference" "M1"
 			(at -3 -3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6701c0f1-f040-4511-98c3-59c9e828cd3e")
 			(effects
 				(font
@@ -21711,6 +21714,7 @@
 		(property "Reference" "M2"
 			(at -3 3 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "adec268b-4867-4d9c-94b8-5102aae7e429")
 			(effects
 				(font

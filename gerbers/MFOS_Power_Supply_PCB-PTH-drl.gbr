@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,8.0.7*%
-%TF.CreationDate,2025-01-29T21:02:50+10:00*%
+%TF.CreationDate,2025-01-30T08:13:18+10:00*%
 %TF.ProjectId,MFOS_Power_Supply_PCB,4d464f53-5f50-46f7-9765-725f53757070,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Plated,1,2,PTH,Drill*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.7) date 2025-01-29 21:02:50*
+G04 Created by KiCad (PCBNEW 8.0.7) date 2025-01-30 08:13:18*
 %MOMM*%
 %LPD*%
 G01*
@@ -106,7 +106,7 @@ X93000000Y-76000000D03*
 %TO.C,M2*%
 X93000000Y-109000000D03*
 %TO.C,M3*%
-X195000000Y-76000000D03*
+X197000000Y-76000000D03*
 %TO.C,M4*%
-X195000000Y-109000000D03*
+X197000000Y-109000000D03*
 M02*
